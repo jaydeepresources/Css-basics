@@ -1,2 +1,2 @@
 # Css-basics
-Css Basics: Text, Padding, Margins, Links
+Css Basics: Text, Padding, Margins, Links, Lists, Images
