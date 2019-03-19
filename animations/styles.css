@@ -1,0 +1,26 @@
+@keyframes buttonScale{
+    0%{
+        transform: scale(1);
+    }
+    50%{
+        transform: scale(1.5);
+    } 
+}
+
+button{
+    animation: buttonScale 3s infinite 0s linear;
+}
+
+@keyframes cardRotate{
+     
+    50%{
+        transform: rotate(180deg);
+        }
+    100%{
+        transform: rotate(360deg);
+        }
+}
+
+.card{
+    animation: cardRotate 3s infinite 0s linear;
+}
