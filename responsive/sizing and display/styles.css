@@ -1,0 +1,48 @@
+
+.height{
+   height: 270px;
+}
+
+.width{
+   width: 270px;
+}
+
+.font-size{
+    font-size: 20px;
+}
+
+.display-lg{
+    display: block;
+}
+
+@media(max-width: 480px){
+    .height{
+        height: 100px;
+     }
+     
+     .width{
+        width: 100px;
+     }
+
+     .font-size{
+        font-size: 14px;
+    }
+
+    .display-lg{
+        display: none;
+    }
+}
+
+@media(min-width: 481px) and (max-width: 575px){
+    .height{
+        height: 200px;
+     }
+     
+     .width{
+        width: 200px;
+     }
+
+     .font-size{
+        font-size: 16px;
+    }
+}
