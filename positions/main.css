@@ -1,0 +1,27 @@
+.div-absolute{
+    position: absolute;
+    left: 10px;
+    top: 240px;
+}
+
+.div-relative{
+    position: relative;
+    left: 40px;
+    top: 290px;
+}
+
+.div-fixed{
+    position: fixed;
+    border: 1px solid black;
+    height: auto;
+    width: 145px;
+}
+
+.div-sticky{
+    background-color: antiquewhite;
+    position: sticky;
+    border: 1px solid black;
+    top: 0px;
+    height: auto;
+    width: auto;
+}

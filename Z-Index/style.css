@@ -1,0 +1,31 @@
+.div1{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    width: 200px;
+    padding: 10px 25px;
+    background-color: cornflowerblue;
+    border: 1px solid black ;
+    z-index: 1;
+}
+
+.div2{
+    position: absolute;
+    left: 40px;
+    top: 40px;
+    width: 100px;
+    padding: 10px 25px;
+    background-color:darksalmon;
+    border: 1px solid black ;
+    z-index: 2;
+}
+
+.div3{
+    position: absolute;
+    left: 120px;
+    top: 30px;
+    width: 200px;
+    padding: 10px 25px;
+    background-color:lightgreen;
+    border: 1px solid black ;
+}
