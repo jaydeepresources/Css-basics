@@ -1,0 +1,32 @@
+.container{
+    margin: 20px 20px;
+    padding: 20px 20px;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.btn{
+    font-family: 'Roboto', sans-serif;
+    padding: 15px 45px;
+    background-color: white;
+    color:rgb(60, 202, 68);
+    border: 1px lightgray solid;
+    border-radius: 10px;
+    position: relative;
+    right: 138px ;
+    top:3px;
+}
+
+h2{
+    margin-top: 0px;
+}
